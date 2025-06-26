@@ -4,7 +4,7 @@ prompt2sql is an intelligent query generation tool that converts natural languag
 🚀 Features
 🔍 Convert plain English prompts into accurate SQL queries
 🧠 Powered by LLMs for semantic understanding and context-aware query generation
-🗄️ Supports multiple database schemas and dialects (e.g., PostgreSQL, MySQL, SQLite)
+🗄️ Supports database schemas and dialects (e.g., MySQL)
 🛠️ Easy integration with existing data pipelines or analytics dashboards
 🧪 Includes test cases and examples for common query patterns
 📦 Use Cases
